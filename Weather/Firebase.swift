@@ -27,9 +27,6 @@ public class FirebaseDB {
     }
    
     /* Login to database. You can use:
-    User: daniel.ondruj@strv.com Pass: daniel
-    User: vladoun@strv.com       Pass: vladoun
-    User: r.riki@tiscali.it      Pass: 123456
     This function can be accept login data from user, but for now I set it at runtime
 
     Save the city and data to database
